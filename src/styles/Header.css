@@ -37,3 +37,11 @@ header .sign-in-btn {
   background: #61dafb;
   color: #282c34;
 }
+
+header {
+  color: white;
+}
+
+header .cl-userButtonOuterIdentifier {
+  color: white;
+}

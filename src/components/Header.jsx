@@ -38,7 +38,8 @@ function Header() {
         </SignedOut>
 
         <SignedIn>
-          <UserButton afterSignOutUrl="/" />
+          {"Try clicking at the name here ->"}
+          <UserButton afterSignOutUrl="/" showName />
         </SignedIn>
       </nav>
     </header>
